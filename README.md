@@ -1,9 +1,9 @@
 # Front-end README
 
 1. Clone the project
-2. Execute ``npm install```
-3. Clone the file ``.env.template` and rename to `.env.local```
-4. To Run Front-end: ``npm run dev```
+2. Execute `npm install`
+3. Clone the file `.env.template` and rename to `.env.local`
+4. To Run Front-end: `npm run dev`
 
 # DEFAULT README ---------------------------------
 
